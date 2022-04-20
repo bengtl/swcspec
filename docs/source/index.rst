@@ -1,12 +1,12 @@
 .. image:: Figures/swclogo.png
 
-SWC format specification documentation
-======================================
-The SWC format is a human- and machine-readable format for representing digital reconstructions. 
+SWC specification documentation
+===============================
+The SWC file format is a human- and machine-readable format for representing digital reconstructions. 
 
-Versions
-^^^^^^^^
-`SWC Format Specification 2.0.0 <https://swcformat.readthedocs.io/en/latest/swc.html>`_
+Latest specification version
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+:doc:`SWC specification version 2.0.0 </swc>`_
 
 Governance 
 ^^^^^^^^^^
