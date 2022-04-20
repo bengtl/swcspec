@@ -4,12 +4,6 @@ SWC specification documentation
 ===============================
 The SWC file format is a human- and machine-readable format for representing digital reconstructions. 
 
-Contents
-^^^^^^^^
-.. toctree::
-    index
-    swc
-    governance
 
 Latest specification
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -31,3 +25,10 @@ For information about neuromorphological file format’s development and governa
 How to cite the SWC format
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 Add reference here
+
+Contents
+^^^^^^^^
+.. toctree::
+    index
+    swc
+    governance
