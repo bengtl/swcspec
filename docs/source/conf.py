@@ -2,8 +2,8 @@
 
 # -- Project information
 
-project = 'SWC Format'
-copyright = '2022, SWC Format Governing Board'
+project = 'SWC Specification'
+copyright = '2022, SWC Specification Governing Board'
 author = 'Bengt Ljungquist'
 
 release = '2.0'
