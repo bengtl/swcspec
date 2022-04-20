@@ -6,7 +6,7 @@ The SWC file format is a human- and machine-readable format for representing dig
 
 Contents
 ^^^^^^^^
-. toctree::
+.. toctree::
     index
     swc
     governance
