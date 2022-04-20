@@ -15,8 +15,6 @@ Development of the SWC file format is directed by an elected :doc:`governing boa
 
 Updates 
 ^^^^^^^
-List server?	
-Group applications (Facebook groups, google groups, etc)?
 
 Contact 
 ^^^^^^^
@@ -24,7 +22,6 @@ For information about neuromorphological file format’s development and governa
 
 How to cite the SWC format
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
-Add reference here
 
 Contents
 ^^^^^^^^
