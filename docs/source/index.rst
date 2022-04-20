@@ -6,11 +6,11 @@ The SWC file format is a human- and machine-readable format for representing dig
 
 Latest specification version
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-:doc:`SWC specification version 2.0.0 </swc>`_
+:doc:`SWC specification version 2.0.0 </swc>`.
 
 Governance 
 ^^^^^^^^^^
-Development of the SWC file format is directed by an elected :doc:`editorial board </governance>`. 
+Development of the SWC file format is directed by an elected :doc:`governing board </governance>`. 
 
 Updates 
 ^^^^^^^
