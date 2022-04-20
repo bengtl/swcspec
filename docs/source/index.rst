@@ -4,9 +4,16 @@ SWC specification documentation
 ===============================
 The SWC file format is a human- and machine-readable format for representing digital reconstructions. 
 
-Latest specification version
+Contents
+^^^^^^^^
+. toctree::
+    index
+    swc
+    governance
+
+Latest specification
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-:doc:`SWC specification version 2.0.0 </swc>`.
+:doc:`swc`.
 
 Governance 
 ^^^^^^^^^^
