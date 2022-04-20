@@ -1,5 +1,5 @@
-swc_specification
-=================
+SWC format specification
+========================
 
 Information about the SWC file specification
 
